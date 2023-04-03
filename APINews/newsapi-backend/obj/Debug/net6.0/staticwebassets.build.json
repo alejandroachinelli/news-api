@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UmDevxBg4Ai9ov8UKMnpED1jC0d+WNFP0Z2WbB5C+OE=",
+  "Source": "newsapi-backend",
+  "BasePath": "_content/newsapi-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
